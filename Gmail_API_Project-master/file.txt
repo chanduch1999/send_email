@@ -1,0 +1,15 @@
+Namahshivaya,
+
+Work Done:
+
+	1.Worked with Gmail-API for Automated Status Update.
+	2.Got to know about RFC2822.
+	3.Tested the script with google-group.
+ 
+Regards
+
+Gopa Vasanth
+Amrita University || Foss@Amrita
+GitHub || Codeforces || Blog || Gerrit
+
+" Never try to defeat people, just try to win them "
